@@ -1,1 +1,1 @@
-# metflix-clone
+# netflix-clone
